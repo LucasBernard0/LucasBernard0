@@ -9,6 +9,8 @@
 - :mortar_board: Programador de Sistemas - Senac :mortar_board:
 - :mortar_board: Programador Web - Senac :mortar_board:
 - :mortar_board: Programador de Sistemas de Informação - Senai :mortar_board:
+- - :briefcase: Estágiario de Infraestura de T.I na Multiplike Gestora de Recursos :briefcase:
+
 
 <div align="center">  
     <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasBernard0&show_icons=true&count_private=true&hide_border=true&title_color=c792ea&icon_color=00bfbf&text_color=7fdbca&bg_color=011627"/> 
