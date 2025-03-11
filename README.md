@@ -27,7 +27,13 @@
 ### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
+ <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=LucasBernard0&label=Profile+Views&color=A020F0&style=flat" alt="Profile views">
+  </p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
+
+
 
 
 
