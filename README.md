@@ -9,7 +9,7 @@
 - :mortar_board: Programador de Sistemas - Senac :mortar_board:
 - :mortar_board: Programador Web - Senac :mortar_board:
 - :mortar_board: Programador de Sistemas de Informação - Senai :mortar_board:
-- :briefcase: Menor Aprendiz de Infraestrutura de T.I na Multiplike Gestora de Recursos :briefcase:
+- :briefcase: Aux. Analista de TI Pleno na Multiplike Gestora de Recursos :briefcase:
 
 
 <div align="center">  
