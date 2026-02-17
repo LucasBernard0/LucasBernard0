@@ -10,7 +10,7 @@
 - :mortar_board: Programador Web - Senac :mortar_board:
 - :mortar_board: Programador de Sistemas de Informação - Senai :mortar_board:
 - :mortar_board:Eng. de Software - Católica :mortar_board:
-- :briefcase: Aux. Analista de TI Pleno na Multiplike Gestora de Recursos :briefcase:
+- :briefcase: Aux. de TI Pleno na Multiplike Gestora de Recursos :briefcase:
 
 
 <div align="center">  
